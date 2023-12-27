@@ -1,0 +1,15 @@
+[submodule "third-party/catch2"]
+	path = third-party/catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "third-party/fmt"]
+	path = third-party/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "third-party/xxhash"]
+	path = third-party/xxhash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "third-party/ada"]
+	path = third-party/ada
+	url = https://github.com/ada-url/ada.git
+[submodule "third-party/boost"]
+	path = third-party/boost
+	url = https://github.com/boostorg/boost.git
